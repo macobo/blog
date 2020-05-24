@@ -1,4 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://technicalwealth.ee/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Karl-Aksel Puulmann"
 theme = "hugo-vitae"
+
+[[params.social]]
+name = "Github"
+icon = "fab fa-github"
+url = "https://github.com/macobo"
