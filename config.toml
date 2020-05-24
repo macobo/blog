@@ -1,7 +1,34 @@
 baseURL = "https://technicalwealth.ee/"
 languageCode = "en-us"
-title = "Karl-Aksel Puulmann"
+title = "Technical Wealth"
+author = "Karl-Aksel Puulmann"
 theme = "hugo-vitae"
+
+pygmentsstyle = "colorful"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  # Add meta keywords in head part (Site Keywords or Tags of Page)
+  keywords = ["software", "blog"]
+
+  # Add meta description in head part
+  description = "Vitae is a blog theme for Hugo that focuses on your content."
+
+  # Add pagetitle to homepage <title> tag
+  #pagetitle = "All about static site generation"
+
+  # Add a subtitle to your website
+  subtitle = "Blog for Karl-Aksel Puulmann"
+
+  # Activate to show authors on pages if available
+  listAuthor = true
+
+  # Add math typesetting with KaTeX (Global with this Param)
+  math = true
+
+  # Add list of sections that should show up on the homepage
+  mainSections = ["posts"]
 
 [[params.social]]
 name = "Github"
