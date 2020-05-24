@@ -34,3 +34,13 @@ pygmentscodefencesguesssyntax = true
 name = "Github"
 icon = "fab fa-github"
 url = "https://github.com/macobo"
+
+[[params.social]]
+name = "Linkedin"
+icon = "fab fa-linkedin"
+url = "https://www.linkedin.com/in/karlakselpuulmann/"
+
+[[params.social]]
+name = "RSS"
+icon = "fas fa-rss"
+url = "/index.xml"
