@@ -1,6 +1,6 @@
 baseURL = "https://technicalwealth.ee/"
 languageCode = "en-us"
-title = "Technical Wealth"
+title = "Technical wealth"
 author = "Karl-Aksel Puulmann"
 theme = "hugo-vitae"
 
@@ -13,13 +13,13 @@ pygmentscodefencesguesssyntax = true
   keywords = ["software", "blog"]
 
   # Add meta description in head part
-  description = "Vitae is a blog theme for Hugo that focuses on your content."
+  #description = "Vitae is a blog theme for Hugo that focuses on your content."
 
   # Add pagetitle to homepage <title> tag
   #pagetitle = "All about static site generation"
 
   # Add a subtitle to your website
-  subtitle = "Blog for Karl-Aksel Puulmann"
+  subtitle = "Blog on software and architecture by Karl-Aksel Puulmann"
 
   # Activate to show authors on pages if available
   listAuthor = true
