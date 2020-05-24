@@ -30,6 +30,16 @@ pygmentscodefencesguesssyntax = true
   # Add list of sections that should show up on the homepage
   mainSections = ["posts"]
 
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All Posts"
+url = "/posts"
+weight = 2
+
 [[params.social]]
 name = "Github"
 icon = "fab fa-github"
